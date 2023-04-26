@@ -7,5 +7,6 @@
         printf("Hello, This is Royce Arpon");
         printf("Im Bas");
         printf("Hello World Orayt");
-        printf("Hello, this is Kendra");
+        printf("Hello, this is Kendra")
+        printf("ambot");
 }
