@@ -8,5 +8,5 @@
         printf("Im Bas");
         printf("Hello World Orayt");
         printf("Hello, this is Kendra");
-        printf("ambot");
+        printf("ammbot");
 }
